@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu-alaikum 👋, I'm MD. HABIBUR RAHMAN</h1>
+<h1 align="center">Hi there 👋, This is MD. HABIBUR RAHMAN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
